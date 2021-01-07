@@ -1,2 +1,2 @@
-# -RizvanKxan.github.io
+# RizvanKxan.github.io
 Первые шаги.
